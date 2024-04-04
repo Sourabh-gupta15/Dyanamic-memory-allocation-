@@ -1,3 +1,3 @@
-# git-demo
+# Dyanamic memory allocation
 hustle
 sourabh gupta
